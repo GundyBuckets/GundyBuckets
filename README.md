@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GundyBuckets
 - 👀 I’m interested in Video Games and working out, I especially like playing Rainbow Six Siege
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: huntergundi@outlook.com
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: huntergundi@gmail.com
 - ⚡ Fun fact: My max deadlift was 405 lbs
 
 <!---
